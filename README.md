@@ -1,4 +1,4 @@
-# Pitch-Up
+# Pitch-App
 
  This is python web based application that allows you to post your ideas and let people see.The user isable to view other posted content and vote on them
 
