@@ -55,4 +55,4 @@ The login and logout have issues
 Copyright (c) 2020 BihawaM
 
 ## Collaborate
-  > Send me an [email]() to collaborate on the project.
+  > Send me an [email](abdimulhin.yussuf@student.moringaschool.com) to collaborate on the project.
