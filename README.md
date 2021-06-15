@@ -51,7 +51,7 @@
 The login and logout have issues
 
 ## Collaborate
-  > Send me an [email](abdimulhin.yussuf@student.moringaschool.com) to collaborate on the project.
+  > Send me an abdimulhin.yussuf@student.moringaschool.com to collaborate on the project.
 
 ## License
   MIT License
