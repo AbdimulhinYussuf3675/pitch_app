@@ -50,9 +50,10 @@
 ## Known Bugs
 The login and logout have issues
 
-## License
-  MIT License
-Copyright (c) 2020 BihawaM
-
 ## Collaborate
   > Send me an [email](abdimulhin.yussuf@student.moringaschool.com) to collaborate on the project.
+
+## License
+  MIT License
+Copyright (c) 2020 abdimulhinAdam
+
