@@ -1,4 +1,5 @@
 import os
+import re 
 
 class Config:
     SQLALCHEMY_TRACK_MODIFICATIONS=True
@@ -13,7 +14,7 @@ class Config:
     
     
 class ProdConfig(Config):
-    SQLALCHEMY_DATABASE_URI = os.environ.get('DATABASE_URL')
+    SQLALCHEMY_DATABASE_URI = os.environ.get("DATABASE_URL")
   
 class TestConfig(Config):
     SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://moringa:access@localhost/adam_test'
