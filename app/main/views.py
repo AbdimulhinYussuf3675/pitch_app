@@ -9,9 +9,9 @@ from .. import db,photos
 def index():
     pitches = Pitch.query.all()
     job = Pitch.query.filter_by(category = 'Job').all() 
-    game = Pitch.query.filter_by(category = 'Game').all()
+    love = Pitch.query.filter_by(category = 'Love').all()
     swahili = Pitch.query.filter_by(category = 'Swahili').all()
-    return render_template('index.html', job = job,game = game, pitches = pitches,swahili= swahili)
+    return render_template('index.html', job = job,love = love , pitches = pitches,swahili= swahili)
 
 @main.route('/create_new', methods = ['POST','GET'])
 @login_required
